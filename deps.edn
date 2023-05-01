@@ -1,0 +1,3 @@
+
+{:paths ["source-code/clj" "source-code/cljs"]
+ :deps  {com.taoensso/sente {:mvn/version "1.17.0"}}}
